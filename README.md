@@ -1,5 +1,10 @@
 # Moku
- Third-semester-project at S4G
+## Third-semester-project at S4G
+### Description:
+
+#### Play the  curious little lizard Moku in this 2D side-scrolling adventure! Your home is threatened to be destroyed by an evil and very hungry monstrosity ... or is it? Use your grappling hook-like tongue to swing through the canopy of the forest and find out what it is all about!
+
+
 ![IMG_2962](https://user-images.githubusercontent.com/73071252/155979551-2accb6f4-f73a-432d-bda7-04728155117c.jpg)
 
 Gameplay Video
