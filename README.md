@@ -11,4 +11,7 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73071252/155980646-5991b81d-bee8-43eb-aedf-e8048d2c38d5.gif)
 
+# Documentation
+- [Technical Design Document](https://github.com/geroj12/Moku/files/8170122/TDD.pdf)
+- [SFX Document](https://github.com/geroj12/Moku/files/8170191/Dokument.16.pdf)
 
