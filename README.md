@@ -13,5 +13,5 @@
 
 # Documentation
 - [Technical Design Document](https://github.com/geroj12/Moku/files/8170122/TDD.pdf)
-- [SFX Document](https://github.com/geroj12/Moku/files/8170191/Dokument.16.pdf)
+- [SFX Document]([SFXDocument.pdf](https://github.com/geroj12/Moku/files/8170223/SFXDocument.pdf))
 
