@@ -27,7 +27,7 @@ through the canopy of the forest and find out what it is all about!
 > <img src="https://user-images.githubusercontent.com/73071252/156392275-213df1b3-2266-41a0-8619-410a282f1799.png" width="200" />
 
 # Scripts
-> 
+> [Movement](/Assets/Scripts/Player/PlayerMovement.cs)
 
 # Documentation
 > - [Technical Design Document](https://github.com/geroj12/Moku/files/8170122/TDD.pdf)
