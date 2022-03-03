@@ -32,7 +32,7 @@ through the canopy of the forest and find out what it is all about!
 > [Parallax](https://github.com/geroj12/Moku/blob/c1ee2bce1ece64ebca26e8a5c18117e90407e43c/S4GDrittsemesterProjektGROK/Assets/ParallaxLayer.cs)
 
 # Documentation
-> - [Technical Design Document](https://github.com/geroj12/Moku/files/8170122/TDD.pdf)
+> - [Technical Design Document](https://github.com/geroj12/Moku/blob/0e553811c8a5f733517c59f53c5277f8e07cdb90/S4GDrittsemesterProjektGROK/Docs/SFXDocument.pdf)
 > - [SFX Document](https://github.com/geroj12/Moku/files/8170223/SFXDocument.pdf)
 
 # Homepage/Itch.io
