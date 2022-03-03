@@ -33,7 +33,7 @@ through the canopy of the forest and find out what it is all about!
 
 # Documentation
 > - [Technical Design Document](https://github.com/geroj12/Moku/blob/0e553811c8a5f733517c59f53c5277f8e07cdb90/S4GDrittsemesterProjektGROK/Docs/SFXDocument.pdf)
-> - [SFX Document](https://github.com/geroj12/Moku/files/8170223/SFXDocument.pdf)
+> - [SFX Document](https://github.com/geroj12/Moku/blob/6019dbff715e8235e7014f8b21bcea5a5b02322c/S4GDrittsemesterProjektGROK/Docs/TDD.pdf)
 
 # Homepage/Itch.io
 > - [Homepage](https://moku-and-the-feeding-frenzy.school4games.net/)
