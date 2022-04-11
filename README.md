@@ -28,7 +28,7 @@ through the canopy of the forest and find out what it is all about!
 > https://www.fmod.com/
 
 # Scripts
-> [Movement](/Assets/Scripts/Player/PlayerMovement.cs)
+> [Movement](https://github.com/geroj12/Moku/blob/53153e46e20fd378137e229a25994a0f2aa12d07/S4GDrittsemesterProjektGROK/Assets/Scripts/Player/PlayerMovement.cs)
 > [Parallax](https://github.com/geroj12/Moku/blob/c1ee2bce1ece64ebca26e8a5c18117e90407e43c/S4GDrittsemesterProjektGROK/Assets/ParallaxLayer.cs)
 
 # Documentation
