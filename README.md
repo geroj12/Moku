@@ -12,8 +12,6 @@ through the canopy of the forest and find out what it is all about!
 
 <img src="https://user-images.githubusercontent.com/73071252/155980646-5991b81d-bee8-43eb-aedf-e8048d2c38d5.gif" width="800" />
 
-<img src="https://miro.com/app/live-embed/o9J_l1_BXDY=/?moveToViewport=67008,1563,3987,1945" frameBorder="0" scrolling="no" allowFullScreen" />
-
 > - ##### Adventure
 > - ##### Storytelling
 > - ##### Dynamic Music
