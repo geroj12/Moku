@@ -32,8 +32,8 @@ through the canopy of the forest and find out what it is all about!
 > [Parallax](https://github.com/geroj12/Moku/blob/c1ee2bce1ece64ebca26e8a5c18117e90407e43c/S4GDrittsemesterProjektGROK/Assets/ParallaxLayer.cs)
 
 # Documentation
-> - [Technical Design Document](https://github.com/geroj12/Moku/blob/0e553811c8a5f733517c59f53c5277f8e07cdb90/S4GDrittsemesterProjektGROK/Docs/SFXDocument.pdf)
-> - [SFX Document](https://github.com/geroj12/Moku/blob/6019dbff715e8235e7014f8b21bcea5a5b02322c/S4GDrittsemesterProjektGROK/Docs/TDD.pdf)
+> - [SFX Document](https://github.com/geroj12/Moku/blob/0e553811c8a5f733517c59f53c5277f8e07cdb90/S4GDrittsemesterProjektGROK/Docs/SFXDocument.pdf)
+> - [Technical Design Document](https://github.com/geroj12/Moku/blob/6019dbff715e8235e7014f8b21bcea5a5b02322c/S4GDrittsemesterProjektGROK/Docs/TDD.pdf)
 
 # Homepage/Itch.io
 > - [Homepage](https://moku-and-the-feeding-frenzy.school4games.net/)
