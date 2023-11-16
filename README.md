@@ -23,13 +23,12 @@ through the canopy of the forest and find out what it is all about!
 
 # Engine/Tools
 > <img src="https://user-images.githubusercontent.com/73071252/156392267-4f301341-f902-49d8-bbc3-023aad8ab843.jpg" width="200" /> 
-> [https://unity.com/de]
 > <img src="https://user-images.githubusercontent.com/73071252/156392275-213df1b3-2266-41a0-8619-410a282f1799.png" width="200" />
-> https://www.fmod.com/
+
 
 # Scripts
 > [Movement](https://github.com/geroj12/Moku/blob/53153e46e20fd378137e229a25994a0f2aa12d07/S4GDrittsemesterProjektGROK/Assets/Scripts/Player/PlayerMovement.cs)
-> [Parallax](https://github.com/geroj12/Moku/blob/c1ee2bce1ece64ebca26e8a5c18117e90407e43c/S4GDrittsemesterProjektGROK/Assets/ParallaxLayer.cs)
+
 
 # Documentation
 > - [SFX Document](https://github.com/geroj12/Moku/blob/0e553811c8a5f733517c59f53c5277f8e07cdb90/S4GDrittsemesterProjektGROK/Docs/SFXDocument.pdf)
